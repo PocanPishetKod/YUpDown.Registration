@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="YHome.MessageBroker.RabbitMQ" Version="0.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TUpDown.Registration.Store\TUpDown.Registration.Data.csproj" />
+    <ProjectReference Include="..\YUpDown.Application\YUpDown.Registration.Application.csproj" />
+    <ProjectReference Include="..\YUpDown.Common\YUpDown.Common.csproj" />
+  </ItemGroup>
+
+</Project>
