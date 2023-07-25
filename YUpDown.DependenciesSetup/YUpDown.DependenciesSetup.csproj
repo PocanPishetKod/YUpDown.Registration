@@ -15,6 +15,7 @@
     <ProjectReference Include="..\TUpDown.Registration.Store\TUpDown.Registration.Data.csproj" />
     <ProjectReference Include="..\YUpDown.Application\YUpDown.Registration.Application.csproj" />
     <ProjectReference Include="..\YUpDown.Common\YUpDown.Common.csproj" />
+    <ProjectReference Include="..\YUpDown.Registration.Data\YUpDown.Registration.Data.csproj" />
   </ItemGroup>
 
 </Project>

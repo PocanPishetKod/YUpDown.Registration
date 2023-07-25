@@ -1,7 +1,7 @@
 ﻿using YUpDown.Registration.Application.Interfaces;
 using YUpDown.Registration.Domain.Transferings;
 
-namespace TUpDown.Registration.Store
+namespace YUpDown.Registration.Data
 {
     public class TransferringRepository : ITransferringRepository
     {

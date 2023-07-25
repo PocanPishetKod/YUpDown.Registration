@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YUpDown.Registration.Domain
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YUpDown.Registration.Application", "YUpDown.Application\YUpDown.Registration.Application.csproj", "{1F6F568E-F249-46C2-85FD-78A5BF9F10AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TUpDown.Registration.Data", "TUpDown.Registration.Store\TUpDown.Registration.Data.csproj", "{1D0CBF7B-68AA-4EEF-9DE4-B5C741223E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YUpDown.Registration.Data", "YUpDown.Registration.Data\YUpDown.Registration.Data.csproj", "{1D0CBF7B-68AA-4EEF-9DE4-B5C741223E93}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YUpDown.DependenciesSetup", "YUpDown.DependenciesSetup\YUpDown.DependenciesSetup.csproj", "{7EADD67E-593B-4DB4-832E-0538B2AA0CFE}"
 EndProject

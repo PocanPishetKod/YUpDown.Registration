@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using TUpDown.Registration.Store;
+using YUpDown.Registration.Data;
 using YHome.MessageBroker.Interface;
 using YHome.MessageBroker.RabbitMQ;
 using YUpDown.Common;
